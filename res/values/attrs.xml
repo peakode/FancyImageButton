@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FancyImageButton">
+        <attr name="fibOuterColor" format="color" />
+        <attr name="fibInnerColor" format="color" />
+        <attr name="fibPressedBorderWidth" format="dimension" />
+        
+    </declare-styleable>
+</resources>
